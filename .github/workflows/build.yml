@@ -3,7 +3,8 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "Package name of the game:com.humo.yqqsqz.hykb"
+          description: "Package name of the game:com.tencent.tmgp.dnf
+"
           required: true
 
 jobs:
